@@ -77,7 +77,7 @@ const config = {
             label: 'Document',
           },
           {to: '/blog', label: 'Blog', position: 'left'},
-          {to: '/issue', label: 'Issue', position: 'left'},
+          // {to: '/issue', label: 'Issue', position: 'left'},
           {
             href: 'https://github.com/dotnet-migration/dotnet-migration-doc',
             label: 'GitHub',
