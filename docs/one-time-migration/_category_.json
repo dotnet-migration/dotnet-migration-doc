@@ -1,0 +1,8 @@
+{
+  "label": "One-time migration",
+  "position": 2,
+  "link": {
+    "type": "generated-index",
+    "description": "If your service can be migrated to. net core at one time."
+  }
+}
