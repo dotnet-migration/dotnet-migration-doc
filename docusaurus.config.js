@@ -75,7 +75,7 @@ const config = {
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
     ({
       // Replace with your project's social card
-      image: 'img/framework2core.png',
+      image: 'img/logo.png',
       navbar: {
         title: 'dotnet migration',
         logo: {
