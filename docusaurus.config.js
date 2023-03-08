@@ -32,6 +32,8 @@ const config = {
     locales: ['en'],
   },
 
+  scripts: [{src: 'https://umami-ochre-nu.vercel.app/umami.js', defer: true, 'data-website-id': '70d66771-910b-4c0c-b76f-6a121c1da08f'}],
+
   themes: [
     [
       require.resolve("@easyops-cn/docusaurus-search-local"),
