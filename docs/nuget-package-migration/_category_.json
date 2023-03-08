@@ -1,0 +1,8 @@
+{
+  "label": "Nuget package migration",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "This is about migrating third-party packages."
+  }
+}
