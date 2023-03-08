@@ -8,3 +8,6 @@ sidebar_position: 1
 
 
 [Progressive migration](./progressive-migration/progressive)
+
+
+[Nuget package migration](./nuget-package-migration/icalendar.md)
