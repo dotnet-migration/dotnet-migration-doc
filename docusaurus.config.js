@@ -67,7 +67,7 @@ const config = {
         title: 'dotnet migration',
         logo: {
           alt: 'dotnet migration',
-          src: 'img/logo.svg',
+          src: 'img/logo.png',
         },
         items: [
           {
