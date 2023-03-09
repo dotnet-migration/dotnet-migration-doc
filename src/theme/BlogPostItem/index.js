@@ -19,7 +19,7 @@ export default function BlogPostItem({children, className}) {
       <BlogPostItemHeader />
       <BlogPostItemContent>{children}</BlogPostItemContent>
       <BlogPostItemFooter />
-      { isBlogPostPage ? <GiscusComponent /> : null}
+      { isBlogPostPage ? <GiscusComponent /> : undefined}
     </BlogPostItemContainer>
   );
 }
