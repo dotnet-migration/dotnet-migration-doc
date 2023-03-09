@@ -10,6 +10,8 @@ Queuing work items in the background.
 Performing a time-based operation on a schedule.
 Background service processing usually doesn't involve a user interface (UI), but UIs can be built around them. In the early days with .NET Framework, Windows developers could create Windows Services for these reasons. Now with .NET, you can use the BackgroundService, which is an implementation of IHostedService, or implement your own.
 
+<!--truncate-->
+
 ![framework2core](./framework2core.png)
 
 There are numerous reasons for creating long-running services such as:
