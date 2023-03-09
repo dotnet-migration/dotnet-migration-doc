@@ -135,6 +135,7 @@ const config = {
         darkTheme: darkCodeTheme,
         additionalLanguages: ['csharp'],
       },
+      metadata: [{name: 'google-site-verification', content: 'd13KXsNzbyvOCb8km5-Jja-m7nlizj8qJ_2mUSAOy2g'}],
     }),
 };
 
